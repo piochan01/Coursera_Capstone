@@ -20,7 +20,11 @@ The objective of this project is to help people who are planning to open a new r
 
 3. BeautifulSoup will also be used to scrap data from Wikipedia for information anlaysis regarding Toronto neighbourhoods
 
+
 # Methodology
 
 Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
+
+After getting the dataset from the Toronto Government Website, we will use a business approach to determine the right location to open a restaurant in Toronto.
+The total number of neighborhoods in Toronto are 212 as shown from the dataset. Based on the their similarities in features, we will use the K-Means methodology to create and group them into clusters for data analysis. After that we will apply data visualization on the clusters. “Folium” will be used to create interactive map showing the neighborhood clusters in Toronto. 
 
