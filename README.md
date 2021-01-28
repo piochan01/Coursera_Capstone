@@ -28,4 +28,7 @@ Methodology section which represents the main component of the report where you 
 After getting the dataset from the Toronto Government Website, we will use a business approach to determine the right location to open a restaurant in Toronto.
 The total number of neighborhoods in Toronto are 102 as shown from the dataset. Based on the their similarities in features, we will use the K-Means methodology to create and group them into clusters for data analysis. After that we will apply data visualization on the clusters. “Folium” will be used to create interactive map showing the neighborhood clusters in Toronto. 
 
-# Results
+# Results and Discussion
+Result is shown in the folium map. Different colors are used to indicate the clusters.
+
+# Conclusion 
